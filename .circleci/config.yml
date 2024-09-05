@@ -20,9 +20,7 @@ jobs:
      steps:
        - checkout
        - run: echo "Helllooooo!"
-workflows:
-  version: 2
-  build-test-and-lint:
+iuyiu
     jobs:
       - build
       - hithere
